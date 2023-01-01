@@ -1,6 +1,6 @@
 {
   "devDependencies": {
     "iview": "^3.5.4",
-    "vue-easytable": "^1.7.2"
+    "vue-easytable": "^2.21.9"
   }
 }
